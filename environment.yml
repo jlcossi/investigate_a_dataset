@@ -1,0 +1,7 @@
+name: investigate
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
